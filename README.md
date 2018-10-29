@@ -6,4 +6,4 @@
 
 簡報:https://mdecadp2018.github.io/site-40623211/reveal/
 
-網誌:https://mdecadp2018.github.io/site-40623211/blog
+網誌:https://mdecadp2018.github.io/site-40623211/blog/
