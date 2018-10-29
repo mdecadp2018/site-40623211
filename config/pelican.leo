@@ -70,6 +70,14 @@
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
+<v t="leo.20181015113142.1"><vh>@edit w1.md</vh></v>
+<v t="leo.20181015113147.1"><vh>@edit w2.md</vh></v>
+<v t="leo.20181015113615.1"><vh>@edit w3.md</vh></v>
+<v t="leo.20181015113400.1"><vh>@edit w4.md</vh></v>
+<v t="leo.20181015113525.1"><vh>@edit w5.md</vh></v>
+<v t="leo.20181015113646.1"><vh>@edit w6.md</vh></v>
+<v t="leo.20181029112428.1"><vh>@edit w7.md</vh></v>
+<v t="leo.20181029112429.1"><vh>@edit w8.md</vh></v>
 </v>
 </v>
 </v>
