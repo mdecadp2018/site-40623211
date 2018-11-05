@@ -1,47 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623211/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623211/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623211/blog/</id><updated>2018-10-29T11:00:00+08:00</updated><entry><title>W8</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623211/blog/2018-Fall-Project-Blog-8.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623211/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623211/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623211/blog/</id><updated>2018-10-29T11:00:00+08:00</updated><entry><title>W8</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623211/blog/2018-Fall-Project-Blog-8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程倉儲&lt;/h2&gt;
-&lt;p&gt;自評將近，努力更新個人網站，讓自己求取高分。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W7</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623211/blog/2018-Fall-Project-Blog-7.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-
+&lt;p&gt;自評將近，努力更新個人網站，讓自己求取高分。&lt;/p&gt;
+&lt;p&gt;課程重點:
+使用鏈接文檔標準硬件
+高級裝配概念
+在裝配中應用“捕捉模式”
+在裝配中分組
+複製緊固件&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W7</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623211/blog/2018-Fall-Project-Blog-7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程倉儲&lt;/h2&gt;
 &lt;p&gt;github官方出問題，因此不能更新。
-更新個人網誌。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W6</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-6.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623211/blog/2018-Fall-Project-Blog-6.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-
+更新個人網誌。&lt;/p&gt;
+&lt;p&gt;課程重點:
+將FeatureScript用於螺釘凸台和肋條
+添加其他模型詳細信息
+版本控制和歷史記錄
+重新排序參數化功能
+自上而下的設計&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W6</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-6.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623211/blog/2018-Fall-Project-Blog-6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程倉儲&lt;/h2&gt;
 &lt;p&gt;發生大問題!!
 隨身碟拿去影印店影印中毒，造成資料損毀，畫的onshape檔案全部損毀(我之前都沒上傳傳到遠端，
-雖然心情真的很嘔，但沒辦法，只好畫多少算多少了，抱持努力學習的態度，一定能被老師看到，順利過關。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W5</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623211/blog/2018-Fall-Project-Blog-5.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-
+雖然心情真的很嘔，但沒辦法，只好畫多少算多少了，抱持努力學習的態度，一定能被老師看到，順利過關。&lt;/p&gt;
+&lt;p&gt;課程重點:
+創建團隊
+使用派生零件
+組織功能樹
+同步協作（即“Google Docs式協作”）
+包括評論&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W5</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623211/blog/2018-Fall-Project-Blog-5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程倉儲&lt;/h2&gt;
-&lt;p&gt;課程好難，努力學習。
-開始畫onshape，練習題目，持續整理老師作業檔案。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W4</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623211/blog/2018-Fall-Project-Blog-4.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-
+&lt;p&gt;課程不容易，努力學習。
+開始畫onshape，練習題目，持續整理老師作業檔案。&lt;/p&gt;
+&lt;p&gt;課程重點:
+工程圖紙簡介
+創建圖紙視圖，尺寸標註，公差，註釋
+使用模板&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W4</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623211/blog/2018-Fall-Project-Blog-4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程倉儲&lt;/h2&gt;
 &lt;p&gt;建立github帳號
 開始整理檔案，練習遠端近端整理，每周作業整理與上傳。
-全部英文真的不容易，需要配合翻譯閱讀。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W3</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-3.html" rel="alternate"></link><published>2018-09-24T11:00:00+08:00</published><updated>2018-09-24T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-09-24:/site-40623211/blog/2018-Fall-Project-Blog-3.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-
+全部英文真的不容易，需要配合翻譯閱讀。&lt;/p&gt;
+&lt;p&gt;課程重點:
+關於自由度的課程
+部件配合介紹
+配對連接器
+使用三重軸操縱零件位置
+解釋配合和關係
+動畫配合
+鏈接文檔簡介
+配合應用限制&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W3</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-3.html" rel="alternate"></link><published>2018-09-24T11:00:00+08:00</published><updated>2018-09-24T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-09-24:/site-40623211/blog/2018-Fall-Project-Blog-3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程倉儲&lt;/h2&gt;
-&lt;p&gt;中秋節放假&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W2</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-w2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-09-17:/site-40623211/blog/2018-Fall-Project-Blog-w2.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-
+&lt;p&gt;中秋節放假&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W2</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-w2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-09-17:/site-40623211/blog/2018-Fall-Project-Blog-w2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程倉儲&lt;/h2&gt;
 &lt;p&gt;大學應該多吃個學程之重點，多攝取養分。
-盡量與每個教授多學習，充實生活&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623211/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+盡量與每個教授多學習，充實生活。&lt;/p&gt;
+&lt;p&gt;課程重點:
+簡介"設計意圖"
+設定尺寸與約束
+繪製精確的零件
+草圖繪製練習
+運用與建立平面
+建立圓角與倒角
+使用多個草圖區域 
+基本零件
+繪製時鐘模型 - 用於設計意圖教學
+各種簡單的幾何形狀&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623211/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
@@ -53,10 +81,18 @@
 &lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
 &lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
 &lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W1</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-w1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623211/blog/2018-Fall-Project-Blog-w1.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W1</title><link href="https://mdecadp2018.github.io/site-40623211/blog/2018-Fall-Project-Blog-w1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>40623211</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623211/blog/2018-Fall-Project-Blog-w1.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程倉儲&lt;/h2&gt;
 &lt;p&gt;略述本學期課程
-主要是分組與組員共同用onshape做研發&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
+主要是分組與組員共同用onshape做研發。&lt;/p&gt;
+&lt;p&gt;課程重點:
+建立 Onshape 帳號 
+3D 設計
+說明基於草圖的建模
+介紹 4 個基本特徵，擠出，旋轉，掃描和斷面混成
+從 2D 過渡到 3D
+介紹基本草圖
+圓柱薄殼 - 繪圖界面與可視化/檢視的介紹
+針對既有草圖的模型 - 接續建立特徵
+現存公用模型- 如何搜尋並復製到工作區&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
