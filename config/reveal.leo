@@ -171,7 +171,9 @@ Created by [40623211]
 
 1.期末專案的進度規劃
 2.Onshape練習畫零件，試著了解同學所要表達的零件意義
-3.程式模擬練習</t>
+3.程式模擬練習
+
+</t>
 <t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -298,7 +300,9 @@ Created by [40623211]
 
 * 與組員完成專案
 * 每週錄製上課影片
-* 自評與互評</t>
+* 自評與互評
+
+</t>
 <t tx="leo.20190412163751.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -313,6 +317,8 @@ Created by [40623211]
 <t tx="leo.20190412163751.2"># W16-W17
 
 * 製作PDF
-* 由於一段時間沒使用leo，因此有蠻多問題要問同學的</t>
+* 由於一段時間沒使用leo，因此有蠻多問題要問同學的
+
+</t>
 </tnodes>
 </leo_file>
